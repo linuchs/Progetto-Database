@@ -6,21 +6,34 @@ Studio analitico per la creazione di una Base di Dati per il noleggio urbano dis
 Descrizione e specifiche
 
 Si vuole realizzare il progetto di una base di dati per la gestione di un sistema di noleggio di biciclette e monopattini in una città finalizzato alla riduzione dell’impatto ambientale dei mezzi privati sull’inquinamento atmosferico nei centri urbani, mettendo in atto strategie per scoraggiare l’utilizzo da parte dei minori di minicar, di scooter o altri mezzi a combustione interna sviluppando una sensibilità verso la mobilità sostenibile.
+
 Le biciclette possono essere tradizionali oppure a pedalata assistita, i monopattini sono tutti elettrici.
 I mezzi (circa 2500 biciclette di cui 500 tradizionali e 500 monopattini) sono distribuiti in diverse aree della città (circa 200). 
+
 In ogni area ci sono diversi stalli (in media 30) dove i mezzi possono essere noleggiati e riconsegnati.
 I cittadini (circa 2000000) possono creare un profilo presso un portale contestualmente otteranno una Carta Mobilità oltre ad avere una serie di agevolazioni.
+
 I Cittadini  che non intendono effettuare una registrazione possono noleggiare un mezzo presso le aree di noleggio, tutti gli utenti debbono essere in possesso di Carta di Identità elettronica (circa 200000), in modo da potere riconoscere chi ha usufruito del servizio e addebitargliene il costo in caso di mancato pagamento.
 I pagamenti in caso di utente non registrato sul portale possono essere effettuati tramite contante o carta di credito presso gli appositi box attigui all’area di noleggio.
+
 I cittadini che scelgono di iscriversi al servizio di noleggio online oltre ad avere uno sconto variabile sui noleggi, in funzione dei chilometri percorsi e possono ritirare una Carta Mobilità prepagata dietro un pagamento una tantum, più il costo della ricarica.
+
 L’utente con profilo potrà  accedere tramite nome utente e password al suo profilo.
+
 L’utente con profilo potrà tramite la Carta Mobilità di avere sotto controllo i propri noleggi effettuati e il numero dei chilometri percorsi e il credito residuo.
+
 Si vuole dare all’utente che registra un profilo la possibilità di richiedere una ulteriore Carta Mobilità connessa a quella principale per ogni figlio all’interno del nucleo familiare, in questo caso l’utente dovrà inserire gli estremi della carta di identità elettronica di ogni altro componente previsto, quindi il sistema terrà  traccia anche delle generalità degli eventuali utenti connessi a tutte le Carte Mobilità acquistate dal Titolare del profilo.
+
 Solo l’utente Titolare di un profilo potrà verificare i dati delle Carte Mobilità attivate.
+
 Si vuole tenere traccia di uno storico di tutte le Carte acquistate dal Titolare comprese quelle disattivate.
+
 Il prezzo del noleggio è orario.
+
 Un mezzo può essere noleggiato in un’area e restituito in un'altra.
+
 Per ogni area si vuole conoscere il numero noleggi che effettua giornalmente.
+
 Ogni mezzo va in manutenzione dopo un periodo di operatività di 3 mesi, se il mezzo è elettrico va in manutenzione ogni 2 mesi di operatività per constatare lo stato di deterioramento della batteria se questo è elettrico in questo caso deve essere memorizzato il livello di deterioramento della batteria, se il mezzo non è elettrico deve essere memorizzato lo stato di deterioramento dei freni.
 
 <p class=MsoNormal align=left style='margin-top:0cm;margin-right:157.0pt;
