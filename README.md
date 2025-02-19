@@ -1,105 +1,25 @@
-
-
-<p class=MsoNormal align=center style='margin-top:0cm;margin-right:.1pt;
-margin-bottom:0cm;margin-left:1.2pt;text-align:center;line-height:110%'><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-110%'>Progetto di Base di Dati</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0cm;margin-right:.1pt;
-margin-bottom:12.4pt;margin-left:1.2pt;text-align:center;line-height:110%'><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-110%'>Salvatore Allegra</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0cm;margin-right:.25pt;
-margin-bottom:0cm;margin-left:1.2pt;text-align:center;line-height:110%'><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-110%'>Studio analitico per la creazione di una Base di Dati</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0cm;margin-right:.35pt;
-margin-bottom:54.5pt;margin-left:1.2pt;text-align:center;line-height:110%'><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
-110%'><span style='mso-spacerun:yes'>�</span>per il noleggio urbano distribuito
-di veicoli a basso impatto ambientale.</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
-margin-bottom:10.7pt;margin-left:1.1pt;text-align:center;line-height:107%'><b
-style='mso-bidi-font-weight:normal'>Descrizione e specifiche</b></p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Si vuole realizzare il progetto
-di una base di dati per la gestione di un sistema di noleggio di biciclette e
-monopattini in una citt� finalizzato alla riduzione dell�impatto ambientale dei
-mezzi privati sull�inquinamento atmosferico nei centri urbani, mettendo in atto
-strategie per scoraggiare l�utilizzo da parte dei minori di minicar, di scooter
-o altri mezzi a combustione interna sviluppando una sensibilit� verso la
-mobilit� sostenibile.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Le biciclette possono essere
-tradizionali oppure a pedalata assistita, i monopattini sono tutti elettrici.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>I mezzi (circa 2500 biciclette di
-cui 500 tradizionali e 500 monopattini) sono distribuiti in diverse aree della
-citt� (circa 200). </p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>In ogni area ci sono diversi
-stalli (in media 30) dove i mezzi possono essere noleggiati e riconsegnati.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>I cittadini (circa 2000000)
-possono creare un profilo presso un portale contestualmente <span class=SpellE>otteranno</span>
-una Carta Mobilit� oltre ad avere una serie di agevolazioni.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>I <span class=GramE>Cittadini<span
-style='mso-spacerun:yes'>� </span>che</span> non intendono effettuare una
-registrazione possono noleggiare un mezzo presso le aree di noleggio, tutti gli
-utenti debbono essere in possesso di Carta di Identit� elettronica (circa
-200000), in modo da potere riconoscere chi ha usufruito del servizio e
-addebitargliene il costo in caso di mancato pagamento.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>I pagamenti in caso di utente non
-registrato sul portale possono essere effettuati tramite contante o carta di
-credito presso gli appositi box attigui all�area di noleggio.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>I cittadini che scelgono di
-iscriversi al servizio di noleggio online oltre ad avere uno sconto variabile
-sui noleggi, in funzione dei chilometri percorsi e possono ritirare una Carta
-Mobilit� prepagata dietro un pagamento una tantum, pi� il costo della ricarica.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>L�utente con profilo <span
-class=GramE>potr�<span style='mso-spacerun:yes'>� </span>accedere</span>
-tramite nome utente e password al suo profilo.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>L�utente con profilo potr�
-tramite la Carta Mobilit� di avere sotto controllo i propri noleggi effettuati
-e il numero dei chilometri percorsi e il credito residuo.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Si vuole dare all�utente che
-registra un profilo la possibilit� di richiedere una ulteriore Carta Mobilit�
-connessa a quella principale per ogni figlio all�interno del nucleo familiare,
-in questo caso l�utente dovr� inserire gli estremi della carta di identit�
-elettronica di ogni altro componente previsto, quindi il sistema <span
-class=GramE>terr�<span style='mso-spacerun:yes'>� </span>traccia</span> anche
-delle generalit� degli eventuali utenti connessi a tutte le Carte Mobilit�
-acquistate dal Titolare del profilo.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Solo l�utente Titolare di un
-profilo potr� verificare i dati delle Carte Mobilit� attivate.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Si vuole tenere traccia di uno
-storico di tutte le Carte acquistate dal Titolare comprese quelle disattivate.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Il prezzo del noleggio � orario.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Un mezzo pu� essere noleggiato in
-un�area e restituito in un'altra.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Per ogni area si vuole conoscere
-il numero noleggi che effettua giornalmente.</p>
-
-<p class=MsoNormal style='margin-left:-.25pt'>Ogni mezzo va in manutenzione
-dopo un periodo di operativit� di 3 mesi, se il mezzo � elettrico va in
-manutenzione ogni 2 mesi di operativit� per constatare lo stato di
-deterioramento della batteria se questo � elettrico in questo caso deve essere
-memorizzato il livello di deterioramento della batteria, se il mezzo non �
-elettrico deve essere memorizzato lo stato di deterioramento dei freni.</p>
+Progetto di Base di Dati
+Salvatore Allegra
+Studio analitico per la creazione di una Base di Dati
+ per il noleggio urbano distribuito di veicoli a basso impatto ambientale.
+Descrizione e specifiche
+Si vuole realizzare il progetto di una base di dati per la gestione di un sistema di noleggio di biciclette e monopattini in una città finalizzato alla riduzione dell’impatto ambientale dei mezzi privati sull’inquinamento atmosferico nei centri urbani, mettendo in atto strategie per scoraggiare l’utilizzo da parte dei minori di minicar, di scooter o altri mezzi a combustione interna sviluppando una sensibilità verso la mobilità sostenibile.
+Le biciclette possono essere tradizionali oppure a pedalata assistita, i monopattini sono tutti elettrici.
+I mezzi (circa 2500 biciclette di cui 500 tradizionali e 500 monopattini) sono distribuiti in diverse aree della città (circa 200). 
+In ogni area ci sono diversi stalli (in media 30) dove i mezzi possono essere noleggiati e riconsegnati.
+I cittadini (circa 2000000) possono creare un profilo presso un portale contestualmente otteranno una Carta Mobilità oltre ad avere una serie di agevolazioni.
+I Cittadini  che non intendono effettuare una registrazione possono noleggiare un mezzo presso le aree di noleggio, tutti gli utenti debbono essere in possesso di Carta di Identità elettronica (circa 200000), in modo da potere riconoscere chi ha usufruito del servizio e addebitargliene il costo in caso di mancato pagamento.
+I pagamenti in caso di utente non registrato sul portale possono essere effettuati tramite contante o carta di credito presso gli appositi box attigui all’area di noleggio.
+I cittadini che scelgono di iscriversi al servizio di noleggio online oltre ad avere uno sconto variabile sui noleggi, in funzione dei chilometri percorsi e possono ritirare una Carta Mobilità prepagata dietro un pagamento una tantum, più il costo della ricarica.
+L’utente con profilo potrà  accedere tramite nome utente e password al suo profilo.
+L’utente con profilo potrà tramite la Carta Mobilità di avere sotto controllo i propri noleggi effettuati e il numero dei chilometri percorsi e il credito residuo.
+Si vuole dare all’utente che registra un profilo la possibilità di richiedere una ulteriore Carta Mobilità connessa a quella principale per ogni figlio all’interno del nucleo familiare, in questo caso l’utente dovrà inserire gli estremi della carta di identità elettronica di ogni altro componente previsto, quindi il sistema terrà  traccia anche delle generalità degli eventuali utenti connessi a tutte le Carte Mobilità acquistate dal Titolare del profilo.
+Solo l’utente Titolare di un profilo potrà verificare i dati delle Carte Mobilità attivate.
+Si vuole tenere traccia di uno storico di tutte le Carte acquistate dal Titolare comprese quelle disattivate.
+Il prezzo del noleggio è orario.
+Un mezzo può essere noleggiato in un’area e restituito in un'altra.
+Per ogni area si vuole conoscere il numero noleggi che effettua giornalmente.
+Ogni mezzo va in manutenzione dopo un periodo di operatività di 3 mesi, se il mezzo è elettrico va in manutenzione ogni 2 mesi di operatività per constatare lo stato di deterioramento della batteria se questo è elettrico in questo caso deve essere memorizzato il livello di deterioramento della batteria, se il mezzo non è elettrico deve essere memorizzato lo stato di deterioramento dei freni.
 
 <p class=MsoNormal align=left style='margin-top:0cm;margin-right:157.0pt;
 margin-bottom:.15pt;margin-left:-.75pt;text-align:left;text-indent:198.2pt;
