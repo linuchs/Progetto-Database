@@ -1,7 +1,8 @@
-Progetto di Base di Dati
+#Progetto di Base di Dati
+
 Salvatore Allegra
-Studio analitico per la creazione di una Base di Dati
- per il noleggio urbano distribuito di veicoli a basso impatto ambientale.
+
+Studio analitico per la creazione di una Base di Dati per il noleggio urbano distribuito di veicoli a basso impatto ambientale.
 Descrizione e specifiche
 Si vuole realizzare il progetto di una base di dati per la gestione di un sistema di noleggio di biciclette e monopattini in una città finalizzato alla riduzione dell’impatto ambientale dei mezzi privati sull’inquinamento atmosferico nei centri urbani, mettendo in atto strategie per scoraggiare l’utilizzo da parte dei minori di minicar, di scooter o altri mezzi a combustione interna sviluppando una sensibilità verso la mobilità sostenibile.
 Le biciclette possono essere tradizionali oppure a pedalata assistita, i monopattini sono tutti elettrici.
